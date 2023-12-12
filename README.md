@@ -8,9 +8,8 @@ This script, written in Python, allows you to extract some useful information fr
 
 ```python
 if __name__ == '__main__':
-    if sys.platform == 'win32':
-        info = InfoPlatform()
-        info.save_log(file_log='name_file') # file name here
+    info = InfoPlatform()
+    info.save_log(file_log='name_file') # file name here
 ```
 
 ## Installing dependencies
@@ -44,6 +43,9 @@ if __name__ == '__main__':
 |       ✅       | Architecture                     |
 |       ✅       | processor                        |
 |       ✅       | Memory Ram                       |
+|       ✅       | Memory Percent                   |
+|       ✅       | Memory Usage                     |
+|       ✅       | Memory Free                      |
 |       ✅       | Active System                    |
 |       ✅       | Active User                      |
 
@@ -51,14 +53,14 @@ if __name__ == '__main__':
 |     Status     |           INFO CPU                |
 | :-----------: | :--------------------------------: |
 |       ✅      |   Frequece                         |
-|       ✅      |   CPU                              |
-
+|       ✅      |   Temperature                      |
+|       ✅      |   Temperature High                 |          
+|       ✅      |   Temperature Critical             |               
 
 |     Status    |           INFO NETWORK             |
 | :-----------: | :--------------------------------: |
 |       ✅        | IP                              |
 |       ✅        | Mask_ipv4                       |
-|       ✅        | Mask_ipv6                       |
 |       ✅        | Send                            |
 |       ✅        | Received                        |
 

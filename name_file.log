@@ -1,0 +1,47 @@
+
+            - INFO SYSTEM
+            ===================================
+            [!] PC Name:        nullbyte
+            [!] User Name:      vinny
+            [!] Platform:       Linux-6.2.0-37-generic-x86_64-with-glibc2.35
+            [!] Version:        6.2.0-37-generic
+            [!] Architecture:   64bits
+            [!] Process:        x86_64
+            [!] Memory Ram:     7 GB
+            [!] Memory Percent: 42.6 %
+            [!] Memory Usage:   2 GB
+            [!] Memory Free:    2 GB
+            [!] Active System   04:36:12
+            [!] Active User     04:54:35
+            ===================================
+            
+            - INFO CPU
+            ===================================
+            [!] Frequece:      3723 GHz 4100 GHz
+            [!] CPU:           4 %
+            [!] Temperature:   41.0 ºC
+            [!] Temp High:     119.0 ºC
+            [!] Temp Critical: 119.0 ºC
+            ===================================
+            
+            - INFO NETWORK
+            ===================================
+            [!] IP:         192.168.0.103
+            [!] Mask_ipv4:  255.255.255.0
+            [!] ↑ Send:     0.01 GB
+            [!] ↓ Received: 0.01 GB
+            ===================================
+            
+            - INFO Disk HD/SSD
+            ===================================
+            [!] Total:   143 GB
+            [!] Used:    67 GB
+            [!] Free:    69 GB
+            [!] Percent: 49.4 %
+            ===================================
+            
+            - INFO Memory Usage
+            ===================================
+            ['code => 5.30%', 'chrome => 4.33%', 'code => 4.01%', 'gnome-shell => 3.88%', 'code => 2.95%', 'chrome => 2.72%', 'code => 2.30%', 'chrome => 2.24%', 'code => 1.99%', 'code => 1.61%']
+            ===================================
+            
