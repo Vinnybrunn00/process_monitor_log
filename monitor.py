@@ -20,9 +20,9 @@ class InfoPlatform:
         self.__IPV4 = psutil.net_if_addrs()['Wi-Fi'][1] if sys.platform != 'linux' else psutil.net_if_addrs()['wlo1'][0]
         self.__USER_INFO = psutil.users()
         self.__DISK_USAGE = psutil.disk_usage('C://') if sys.platform != 'linux' else psutil.disk_usage('/')
-        self.__TEMPERATURE_CURRENT = f'{psutil.sensors_temperatures()["acpitz"][0].current} ºC'
-        self.__TEMPERATURE_HIGH = f'{psutil.sensors_temperatures()["acpitz"][0].high} ºC'
-        self.__TEMPERATURE_CRITICAL = f'{psutil.sensors_temperatures()["acpitz"][0].critical} ºC'
+        self.__TEMPERATURE_CURRENT = f'{psutil.sensors_temperatures()["acpitz"][0].current} ºC' if sys.platform == 'linux' else ...
+        self.__TEMPERATURE_HIGH = f'{psutil.sensors_temperatures()["acpitz"][0].high} ºC' if sys.platform == 'linux' else ...
+        self.__TEMPERATURE_CRITICAL = f'{psutil.sensors_temperatures()["acpitz"][0].critical} ºC' if sys.platform == 'linux' else ...
         
         __NET_COUNT = psutil.net_io_counters()
         self.recv = __NET_COUNT.bytes_recv

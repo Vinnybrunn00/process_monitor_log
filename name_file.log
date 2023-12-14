@@ -1,27 +1,27 @@
 
             - INFO SYSTEM
             ===================================
-            [!] PC Name:        nullbyte
-            [!] User Name:      vinny
-            [!] Platform:       Linux-6.2.0-37-generic-x86_64-with-glibc2.35
-            [!] Version:        6.2.0-37-generic
+            [!] PC Name:        DESKTOP-6SHBOGJ
+            [!] User Name:      prof_
+            [!] Platform:       Windows-10-10.0.19045-SP0
+            [!] Version:        10
             [!] Architecture:   64bits
-            [!] Process:        x86_64
-            [!] Memory Ram:     7 GB
-            [!] Memory Percent: 42.6 %
-            [!] Memory Usage:   2 GB
-            [!] Memory Free:    2 GB
-            [!] Active System   04:36:12
-            [!] Active User     04:54:35
+            [!] Process:        AMD64
+            [!] Memory Ram:     8 GB
+            [!] Memory Percent: 67.6 %
+            [!] Memory Usage:   5 GB
+            [!] Memory Free:    3 GB
+            [!] Active System   06:31:52
+            [!] Active User     06:35:06
             ===================================
             
             - INFO CPU
             ===================================
-            [!] Frequece:      3723 GHz 4100 GHz
+            [!] Frequece:      2995 GHz 2995 GHz
             [!] CPU:           4 %
-            [!] Temperature:   41.0 ºC
-            [!] Temp High:     119.0 ºC
-            [!] Temp Critical: 119.0 ºC
+            [!] Temperature:   No Suporte
+            [!] Temp High:     No Suporte
+            [!] Temp Critical: No Suporte
             ===================================
             
             - INFO NETWORK
@@ -29,19 +29,19 @@
             [!] IP:         192.168.0.103
             [!] Mask_ipv4:  255.255.255.0
             [!] ↑ Send:     0.01 GB
-            [!] ↓ Received: 0.01 GB
+            [!] ↓ Received: 0.55 GB
             ===================================
             
             - INFO Disk HD/SSD
             ===================================
-            [!] Total:   143 GB
-            [!] Used:    67 GB
-            [!] Free:    69 GB
-            [!] Percent: 49.4 %
+            [!] Total:   784 GB
+            [!] Used:    89 GB
+            [!] Free:    695 GB
+            [!] Percent: 11.3 %
             ===================================
             
             - INFO Memory Usage
             ===================================
-            ['code => 5.30%', 'chrome => 4.33%', 'code => 4.01%', 'gnome-shell => 3.88%', 'code => 2.95%', 'chrome => 2.72%', 'code => 2.30%', 'chrome => 2.24%', 'code => 1.99%', 'code => 1.61%']
+            ['Code.exe => 5.35%', 'MsMpEng.exe => 3.45%', 'Code.exe => 3.07%', 'explorer.exe => 2.86%', 'Code.exe => 2.82%', 'Code.exe => 2.77%', 'chrome.exe => 2.27%', 'PhoneExperienceHost.exe => 1.96%', 'chrome.exe => 1.58%', 'svchost.exe => 1.51%']
             ===================================
             
